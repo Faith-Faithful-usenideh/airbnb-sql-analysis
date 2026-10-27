@@ -1,5 +1,6 @@
 # Where the Money Is in Seattle's Airbnb Market
 
+
 **Tools:** Microsoft SQL Server (T-SQL) · PowerPoint
 **Skills shown:** JOINs, CTEs, aggregation (`SUM`, `AVG`, `ROUND`), filtering, data cleaning with `REPLACE` and `CAST`
 
